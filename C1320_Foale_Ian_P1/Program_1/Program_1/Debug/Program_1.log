@@ -1,0 +1,5 @@
+﻿  Source1.c
+c:\users\ian\source\repos\source1.c(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ian\source\repos\source1.c(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Program_1.vcxproj -> C:\Users\Ian\Documents\CURRENT CLASSES\COSC\Program_1\Debug\Program_1.exe
+  Program_1.vcxproj -> C:\Users\Ian\Documents\CURRENT CLASSES\COSC\Program_1\Debug\Program_1.pdb (Partial PDB)
