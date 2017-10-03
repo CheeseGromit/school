@@ -1,0 +1,8 @@
+﻿  Source.c
+\\stufiles-f.pclab.uhcl.edu\stufiles-f\foalei0729\home\desktop\myprojects\school\program2\program2\source.c(52): warning C4013: 'exit' undefined; assuming extern returning int
+\\stufiles-f.pclab.uhcl.edu\stufiles-f\foalei0729\home\desktop\myprojects\school\program2\program2\source.c(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stufiles-f.pclab.uhcl.edu\stufiles-f\foalei0729\home\desktop\myprojects\school\program2\program2\source.c(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stufiles-f.pclab.uhcl.edu\stufiles-f\foalei0729\home\desktop\myprojects\school\program2\program2\source.c(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\stufiles-f.pclab.uhcl.edu\stufiles-f\foalei0729\home\desktop\myprojects\school\program2\program2\source.c(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Program2.vcxproj -> \\STUFILES-F.pclab.uhcl.edu\STUFILES-F\FoaleI0729\Home\Desktop\MyProjects\school\Program2\Debug\Program2.exe
+  Program2.vcxproj -> \\STUFILES-F.pclab.uhcl.edu\STUFILES-F\FoaleI0729\Home\Desktop\MyProjects\school\Program2\Debug\Program2.pdb (Partial PDB)

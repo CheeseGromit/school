@@ -1,0 +1,48 @@
+int type;
+int checknum;
+float charge;
+
+print "Press 1 for Checking Account, or 2 for Money-Market Account"
+
+input --> type
+
+if type == 1
+	
+	set charge to 15
+
+else
+
+	set charge to 10
+
+print "Enter # of checks"
+
+if checknum < 20
+
+	add checknum * .1 to charge
+
+else checknum < 40
+
+	add checknum * .08 to charge
+
+else checknum < 60
+
+	add checknum * .06 to charge
+
+else checknum >= 60
+
+	add checknum * .04 to charge
+
+else checknum < 0
+
+	print "Error, checknumber cannot be negative"
+
+
+if type == 1
+
+	print "Charge for checking account is (charge)"
+
+else
+	
+	print "Charge for Money Market account is (charge)"
+
+program end	

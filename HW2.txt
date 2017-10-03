@@ -1,0 +1,9 @@
+HW #2
+
+1.
+An If...Else statement is used to make a decision between two or more options based on whether or not a condition is met. This can be whether or not to take an additional action along with the rest of the program, or split the rest of the program into one set of instructions or another. The same can also be done with a series of If...Else statements, allowing for any one of several options to be chosen based on the condition. Also If...Else statements can be nested, wherein the options given for one If...Else choice can contain other If...Else choices.
+
+2.
+The And and Or operators return a boolean value of True or False based on two or more other conditions/boolean values. Or will return True if either of two conditions or both conditions are True; it will return False if both conditions are False. And will return true only if both conditions are True; otherwise it will return False.
+
+3.
