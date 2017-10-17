@@ -1,0 +1,5 @@
+﻿  Source.c
+\\stufiles-f.pclab.uhcl.edu\stufiles-f\foalei0729\home\desktop\practiceformidterm\practiceformidterm\source.c(91): warning C4098: 'function': 'void' function returning a value
+\\stufiles-f.pclab.uhcl.edu\stufiles-f\foalei0729\home\desktop\practiceformidterm\practiceformidterm\source.c(97): warning C4098: 'num': 'void' function returning a value
+  practiceForMidterm.vcxproj -> \\STUFILES-F.pclab.uhcl.edu\STUFILES-F\FoaleI0729\Home\Desktop\practiceForMidterm\Debug\practiceForMidterm.exe
+  practiceForMidterm.vcxproj -> \\STUFILES-F.pclab.uhcl.edu\STUFILES-F\FoaleI0729\Home\Desktop\practiceForMidterm\Debug\practiceForMidterm.pdb (Partial PDB)

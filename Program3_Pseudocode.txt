@@ -1,0 +1,27 @@
+void pattern
+void write
+void read
+
+
+int main(void)
+
+	pattern()
+	write()
+	read()
+
+
+void pattern:
+	
+	int count = 10
+	int num = 1
+	for (count !=0)
+	
+		while (num < count)
+			print (num )
+			num++
+		
+		count--
+		print (\n)
+
+void write:
+			
