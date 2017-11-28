@@ -1,0 +1,43 @@
+C - Monday
+
+Dec 11  7pm
+
+
+Diffeq - Monday
+
+Dec 11  4pm
+
+
+stats - Thursday
+
+Dec 14  10am
+
+
+ceng - Thursday
+
+Dec 14  4pm
+
+
+disc. math - Tuesday
+
+Dec 12  4pm
+
+
+
+
+
+
+
+this week -
+
+1st : ceng ch. 11/12, learn state machine (counter), troubleshoot for lab
+
+2nd : stats hw #8 due Thursday
+
+3rd : discmath study geometry chapters for quiz thurs
+
+4th: diffeq check if/when any remaining HW quizzes due
+
+5th : C read through missed chapters, study and use example programs
+
+
